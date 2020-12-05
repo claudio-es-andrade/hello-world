@@ -1,4 +1,5 @@
-# hello-world
-Olá, tudo bem! 
+# Olá Mundo, Hello-world versão Java
 
-Novo na área, códigos de estudo e outras coisas mais aqui.
+Código do Olá Mundo sem e com objetos gráficos em Java.
+
+Códigos de estudo e outras coisas mais aqui.
